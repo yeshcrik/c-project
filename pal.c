@@ -4,7 +4,7 @@ palindrome() {
     int num, originalNum, reversedNum = 0, remainder;
 
     // Input a number
-    printf("Enter a number: ");
+    printf("Enter a integer number: ");
     scanf("%d", &num);
 
     originalNum = num; // Store the original number
