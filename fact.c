@@ -5,7 +5,7 @@ void factorial() {
     unsigned long long factorial = 1; // Using long long to handle large values
 
     // Input from the user
-    printf("Enter a number: ");
+    printf("Enter a number to find factorial: ");
     scanf("%d", &num);
 
     // Check if the number is negative
