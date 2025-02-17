@@ -4,7 +4,7 @@ void biggest() {
     int num1, num2, num3, largest;
 
     // Input three numbers
-    printf("Enter three numbers: ");
+    printf("Enter the three integer numbers: ");
     scanf("%d %d %d", &num1, &num2, &num3);
 
     // Compare numbers
